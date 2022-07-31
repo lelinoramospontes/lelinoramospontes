@@ -1,7 +1,7 @@
 
 # Hi guys I'am Lelino Pontes 
 # my skills are:?
-- Dev. Python jr/data processing/graduação e pós em Matemática
+- Analista de dados | Esp. Matemática | Power BI | Python | SQL
 # Data Processing
 
 
