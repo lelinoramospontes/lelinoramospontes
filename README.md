@@ -1,6 +1,6 @@
 
 # Hi guys I'am Lelino Pontes 
-# Who am I?
+# my skills are:?
 - Dev. Python jr/data processing/graduação e pós em Matemática
 # Data Processing
 
