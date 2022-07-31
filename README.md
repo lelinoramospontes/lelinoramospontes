@@ -1,6 +1,6 @@
 
 # Hi guys I'am Lelino Pontes 
-# my skills are:?
+# I have knowledge in:
 - Analista de dados | Esp. Matemática | Power BI | Python | SQL
 # Data Processing
 
